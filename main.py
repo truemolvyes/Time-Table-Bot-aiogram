@@ -27,6 +27,7 @@ async def cmd_start(message: types.Message):
 
 
 @dp.message(Command("table"))
+#зур зур
 async def cmd_table(message: types.Message):
     week_day = date.today().weekday() + 1
 
