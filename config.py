@@ -1,2 +1,2 @@
-TOKEN = "6870833441:AAHkdU0eBFfjaBqzbx8Ln1xB7mpTktQThJ4"
+TOKEN = "Your Tocken"
     
